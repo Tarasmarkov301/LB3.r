@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: sample.Main
+Class-Path: src.zip javafx-swt.jar javafx.web.jar javafx.base.jar javafx
+ .fxml.jar javafx.media.jar javafx.swing.jar javafx.controls.jar javafx.
+ graphics.jar javafx-fxml-11.jar javafx-fxml-11-win.jar javafx-controls-
+ 11.jar javafx-controls-11-win.jar javafx-graphics-11.jar javafx-graphic
+ s-11-win.jar javafx-base-11.jar javafx-base-11-win.jar
+
